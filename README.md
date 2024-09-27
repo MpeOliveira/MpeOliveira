@@ -16,6 +16,7 @@ specializing in Backend development with Java and Spring.
 
 <div align="center">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=MpeOliveira&show_icons=true&theme=dracula&border_color=">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MpeOliveira&layout=compact&theme=dracula&border_color=">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MpeOliveira&theme=dracula&border_color=">
 </div>
 
