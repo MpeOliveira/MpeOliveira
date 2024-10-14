@@ -8,7 +8,7 @@ specializing in Backend development with Java and Spring.
 ## 💻 I’m currently learning
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres" />
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,postgres," />
   </a>
 </p>
 
